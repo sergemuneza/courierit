@@ -1,3 +1,6 @@
+/*
+SERGE MUNEZA
+ */
 package com.courierit.config;
 
 import com.courierit.services.JwtService;
